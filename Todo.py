@@ -43,8 +43,4 @@ def main():
         else:
             print("Invalid choice")
             continue
-        '''
-        task_input=str(input("Enter task  : "))
-        task_list.append(task_input)
-        print(task_list)'''
 main()
